@@ -29,4 +29,4 @@ The **Hospital Records Management System** is a robust database application desi
 5. Run test files located in `03_tests/` (e.g., `@03_tests/test_success_cases.sql`).
 
 ## AI Assistance Disclosure
-An AI assistant was utilized as a collaborative pair-programmer to design the database schema, write PL/SQL blocks, structure exception handling, and prepare documentation. The developer (JABO Ghislain & HIRWA Langton) have reviewed, tested, and fully understands all implemented logic and we are ready to answer any kind of question concerning these.
+An AI assistant was utilized as a collaborative pair-programmer to design the database schema, write PL/SQL blocks, structure exception handling, and prepare documentation. The developers (JABO Ghislain & HIRWA Langton) have reviewed, tested, and fully understands all implemented logic and we are ready to answer any kind of question concerning these.
